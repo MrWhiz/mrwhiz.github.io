@@ -11,7 +11,6 @@ To provide our services, we collect the following types of information:
 *   **Account Information:** When you create an account, we may collect your name, email address, and authentication details.
 *   **Trip and Financial Data:** We collect information you provide about trips, members, and expenses (including amounts, payers, and participants) to facilitate our expense splitting features.
 *   **Location Information:** Trippi uses location services to provide real-time tracking for convoy members. We collect location data from your device only when you enable location sharing features. We may collect background location if you explicitly grant permission to track your vehicle while the app is backgrounded.
-*   **Device Information:** We may collect device-specific information such as device model, operating system version, and unique device identifiers to help diagnose crashes and track usage.
 
 ## 2. How We Use Your Information
 
@@ -55,4 +54,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 ## 9. Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: support@trippi.app
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: mr.whiz1986@gmail.com
