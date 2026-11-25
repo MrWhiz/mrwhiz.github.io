@@ -26,7 +26,7 @@ Trippi is a group travel coordination and expense-tracking application that allo
 ## 2. Eligibility & User Accounts
 
 - **Age Requirement:** You must be at least 13 years old (or the minimum age required in your jurisdiction) to use Trippi.
-- **Account Registration:** You may sign in using supported authentication methods (such as Google Sign-In or email authentication). You are responsible for maintaining the confidentiality of your account and for all activities that occur under your account.
+- **Account Registration:** You sign in using Google Sign-In. You are responsible for maintaining the confidentiality of your account and for all activities that occur under your account.
 - **Accurate Information:** You agree to provide accurate information when creating a profile or participating in trips.
 
 ---
@@ -73,7 +73,7 @@ All trademarks, logos, UI designs, graphics, and software code associated with T
 ## 8. Account Termination & Data Deletion
 
 - You may stop using the App at any time.
-- You may request deletion of your account and associated personal data by contacting us at **mr.whiz1986@gmail.com** (or using in-app deletion options where available).
+- You may request deletion of your account and associated personal data by contacting us at **mr.whiz1986@gmail.com**.
 - We reserve the right to suspend or terminate access to the App if you violate these Terms or misuse the service.
 
 ---
